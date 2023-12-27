@@ -2,7 +2,7 @@
 Электронная почта: ivan.khodosevich@bk.ru
 VK: www.vk.com/khodosevich2
 
-<h3>To find a forbidden garden</h3>
+<h1>To find a forbidden garden</h1>
 
 
 
